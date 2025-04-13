@@ -63,6 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Karunya Gupta 
-mails.karunyagupta@gmail.com  
+Karunya Gupta
 ```
+mails.karunyagupta@gmail.com
